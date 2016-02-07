@@ -2,4 +2,4 @@
 </br>
 [How simple grid system can be](https://css-tricks.com/dont-overthink-it-grids/)
 </br>
-[Stick footer css that doesn't overlap](http://ryanfait.com/resources/footer-stick-to-bottom-of-page/)
+[Sticky footer css that doesn't overlap](http://ryanfait.com/resources/footer-stick-to-bottom-of-page/)
