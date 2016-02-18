@@ -31,6 +31,20 @@
   <dd>Google Webmaster also has a tool to see what search queries your site shows up most for and what queries led the most users to your site</dd>
   <dd>Link: https://adwords.google.com/KeywordPlanner</dd>
   
+  <dt>Use descriptive alt tags for images, filenames and anchor text</dt>
+  <dd>Just do it</dd>
+  
+  <dt>Supply google with an image sitemap so it knows which images it can access</dt>
+  <dd>Link: https://support.google.com/webmasters/answer/178636</dd>
+  
+  <dt>Use heading tags as an outline of the site</dt>
+  <dd>Just place them on things you actually would want Google to see.</dd>
+  
+  <dt>Use robots.txt to tell Google what it should and shouldn't index</dt>
+  <dd>Block Google from seeing /images, /search and other things that should not be indexed</dd>
+  <dd>Link to Webmaster guide: https://googlewebmastercentral.blogspot.is/2008/03/speaking-language-of-robots.html</dd>
+  <dd>You can remove crawled pages in numerous way, Link: https://googlewebmastercentral.blogspot.is/2008/01/remove-your-content-from-google.html</dd>
+  
   <dt></dt>
   <dd></dd>
   
