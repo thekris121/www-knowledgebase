@@ -45,9 +45,22 @@
   <dd>Link to Webmaster guide: https://googlewebmastercentral.blogspot.is/2008/03/speaking-language-of-robots.html</dd>
   <dd>You can remove crawled pages in numerous way, Link: https://googlewebmastercentral.blogspot.is/2008/01/remove-your-content-from-google.html</dd>
   
-  <dt></dt>
-  <dd></dd>
+  <dt>Get blogs and social media to link to the site not just mention it</dt>
+  <dd>All backlinks from trusted sites count towards better reputation.</dd>
   
-  <dt></dt>
-  <dd></dd>
+  <dt>Google Webmasters, use it... it can:</dt>
+  <dd>Link: https://www.google.com/webmasters/tools/</dd>
+  <dd> see which parts of a site Googlebot had problems crawling</dd>
+  <dd>notify us of an XML Sitemap file</dd>
+  <dd>analyze and generate robots.txt files</dd>
+  <dd>remove URLs already crawled by Googlebot</dd>
+  <dd>specify your preferred domain</dd>
+  <dd>identify issues with title and description meta tags</dd>
+  <dd>understand the top searches used to reach a site</dd>
+  <dd>get a glimpse at how Googlebot sees pages</dd>
+  <dd>remove unwanted sitelinks that Google may use in results</dd>
+  <dd>receive notification of quality guideline violations and request a site reconsideration</dd>
+  
+  <dt>Google Website Optimizer</dt>
+  <dd>Link: http://www.google.com/websiteoptimizer/</dd>
 </dl>
