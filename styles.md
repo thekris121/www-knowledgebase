@@ -3,3 +3,5 @@
 [How simple grid system can be](https://css-tricks.com/dont-overthink-it-grids/)
 </br>
 [Sticky footer css that doesn't overlap](http://ryanfait.com/resources/footer-stick-to-bottom-of-page/)
+</br>
+[BEM naming convention](https://en.bem.info/method/key-concepts/)
