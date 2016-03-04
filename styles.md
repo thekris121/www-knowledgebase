@@ -5,3 +5,5 @@
 [Sticky footer css that doesn't overlap](http://ryanfait.com/resources/footer-stick-to-bottom-of-page/)
 </br>
 [BEM naming convention](https://en.bem.info/method/key-concepts/)
+</br>
+[SUIT naming convention](https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md)
